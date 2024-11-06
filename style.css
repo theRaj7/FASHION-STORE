@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+    font-size: 35px;
+    padding: 10PX;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color:rgb(164, 111, 213) ;
+    font-family: "Itim", cursive;
+    font-style: normal;
+}
+
+.Options{
+    height: 180px;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* width: 1400px; */
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+}
+.nav-options{
+   padding: 20px;
+   margin: 10px;
+   
+   text-align: center;
+   font-weight: bold;
+}
+
+.nav-image{
+    height: 80px;
+    
+}
+
+.main-content{
+    height: 650px;
+    background-color: lightgray;
+    text-align: center;
+
+   
+}
+
+.main-image{
+    padding: 40px 10px 10px 10px;
+    width: 1200px;
+    height: 250px;
+}
+
+h2{
+    padding: 40px 40px 0 40px;
+    font-size: 30px;
+}
+table{
+    width: 1200px;
+    margin: 40px 10px 10px 50px;
+    border-collapse: collapse;
+    text-align: left;
+}
+table, th, td {
+    border: 1px solid;
+    padding: 10px;
+}
+.t-head{
+    background-color:#387478;
+    text-align: center;
+    font-size: 20px;
+
+}
+.section-3{
+    color: rgb(167, 157, 157);
+    padding: 10px 20px 0 20px;
+}
+.S-head{
+    font-size:25px;
+    font-weight: bold;
+}
+.para{
+    font-size: 12px;
+    padding-top: 10px;
+}
+.sub-head{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+ul{
+    font-size: 12px;
+}
+
+footer{
+    height: 30px;
+    color: white;
+    background-color:black;
+    text-align: center;
+    padding-top: 10px;
+}
